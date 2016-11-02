@@ -1,0 +1,62 @@
+
+
+body { 
+    background: #ecf0f1 !important; 
+}
+
+
+/* General reset */
+.box-reset {
+    padding: 0 !important; 
+    margin: 0 !important;
+}
+
+/* Text */
+.txt-white {
+    color: #fff !important;
+}
+
+/* Header */
+
+.header {
+    background-color: #222;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+/* Article */
+
+.article {
+    width: 100%;
+    background-color: #fff;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.article-footer {
+    padding: 0 !important; 
+    margin: 0 !important;
+}
+
+/* Right Panel */
+
+.right-panel-container {
+    padding-right: 0 !important; 
+    margin: 0 !important;
+}
+
+.top-articles {
+    background-color: green;
+}
+
+/* Footer */
+
+.footer {
+    background-color: #fff;
+}
+
+.footer-ext {
+    margin: 0px 0px 10px 0;
+    background-color: #222;
+    border-bottom: 3px solid #16a085;
+}
